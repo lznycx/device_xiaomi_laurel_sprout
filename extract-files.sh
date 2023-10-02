@@ -5,7 +5,7 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 #
-set -e
+set -ee
 
 DEVICE=laurel_sprout
 VENDOR=xiaomi
